@@ -300,6 +300,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "Refrac",
+      "name": "Zachary Baldwin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31602472?v=4",
+      "profile": "https://github.com/Refrac",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

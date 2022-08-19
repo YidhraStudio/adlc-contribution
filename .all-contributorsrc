@@ -436,6 +436,15 @@
         "plugin",
         "talk"
       ]
+    },
+    {
+      "login": "Arthed-Plugins",
+      "name": "Arthed",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85873683?v=4",
+      "profile": "https://github.com/Arthed-Plugins",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

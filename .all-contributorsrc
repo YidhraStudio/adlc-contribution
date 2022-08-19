@@ -336,6 +336,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "PlaceholderAPI",
+      "name": "PlaceholderAPI",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37001286?v=4",
+      "profile": "https://placeholderapi.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

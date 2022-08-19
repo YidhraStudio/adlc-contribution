@@ -253,6 +253,15 @@
         "audio",
         "plugin"
       ]
+    },
+    {
+      "login": "ViaVersion",
+      "name": "ViaVersion",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42077435?v=4",
+      "profile": "https://viaversion.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

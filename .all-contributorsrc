@@ -262,6 +262,17 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "TimoCloud",
+      "name": "TimoCloud",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36488456?v=4",
+      "profile": "https://timo.cloud/",
+      "contributions": [
+        "infra",
+        "plugin",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7

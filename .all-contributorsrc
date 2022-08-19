@@ -472,6 +472,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "IdreesInc",
+      "name": "Idrees",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4875804?v=4",
+      "profile": "https://idreesinc.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

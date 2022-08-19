@@ -177,6 +177,16 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "crowdsecurity",
+      "name": "crowdsec",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63284097?v=4",
+      "profile": "https://github.com/crowdsecurity",
+      "contributions": [
+        "plugin",
+        "security"
+      ]
     }
   ],
   "contributorsPerLine": 7

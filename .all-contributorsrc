@@ -39,7 +39,8 @@
       "contributions": [
         "question",
         "code",
-        "mentoring"
+        "mentoring",
+        "plugin"
       ]
     },
     {
@@ -48,7 +49,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/52887197?v=4",
       "profile": "https://github.com/Nan1t",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -57,7 +58,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67077321?v=4",
       "profile": "https://github.com/MiGoYAm",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -66,7 +67,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/21033866?v=4",
       "profile": "https://github.com/BoomEaro",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -75,7 +76,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/52550799?v=4",
       "profile": "http://theguyhere0.github.io/",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -84,7 +85,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/9703873?v=4",
       "profile": "https://github.com/dscalzi",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -93,7 +94,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/8352868?v=4",
       "profile": "https://lucko.me/",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -102,7 +103,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/9086540?v=4",
       "profile": "https://github.com/File14",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -111,7 +112,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/11296360?v=4",
       "profile": "https://github.com/Simonsator",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -120,7 +121,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/28591575?v=4",
       "profile": "https://vagdedes.com/",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -129,7 +130,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/6259574?v=4",
       "profile": "https://ajg0702.us/",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -138,7 +139,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/34003941?v=4",
       "profile": "http://volmit.com/",
       "contributions": [
-        "code"
+        "plugin"
       ]
     },
     {
@@ -147,7 +148,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/65948057?v=4",
       "profile": "https://oraxen.com/",
       "contributions": [
-        "code",
         "plugin"
       ]
     },
@@ -157,7 +157,6 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/67350732?v=4",
       "profile": "https://culleystudios.com/",
       "contributions": [
-        "code",
         "plugin"
       ]
     }

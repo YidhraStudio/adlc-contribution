@@ -499,6 +499,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "zubiden",
+      "name": "zubiden",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19638254?v=4",
+      "profile": "https://github.com/zubiden",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

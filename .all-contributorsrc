@@ -481,6 +481,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "DavidTheExplorer",
+      "name": "David",
+      "avatar_url": "https://avatars.githubusercontent.com/u/69223217?v=4",
+      "profile": "https://bloodmoon.pseudonova.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

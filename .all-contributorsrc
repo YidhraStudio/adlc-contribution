@@ -30,6 +30,17 @@
         "code",
         "userTesting"
       ]
+    },
+    {
+      "login": "EnderGriefeur99",
+      "name": "Ender_Griefeur99",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38588683?v=4",
+      "profile": "https://github.com/EnderGriefeur99",
+      "contributions": [
+        "question",
+        "code",
+        "mentoring"
+      ]
     }
   ],
   "contributorsPerLine": 7

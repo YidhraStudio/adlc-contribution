@@ -205,6 +205,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "morelaid",
+      "name": "Morelaid",
+      "avatar_url": "https://avatars.githubusercontent.com/u/37469978?v=4",
+      "profile": "https://github.com/morelaid",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

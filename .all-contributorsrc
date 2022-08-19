@@ -41,6 +41,15 @@
         "code",
         "mentoring"
       ]
+    },
+    {
+      "login": "Nan1t",
+      "name": "Max",
+      "avatar_url": "https://avatars.githubusercontent.com/u/52887197?v=4",
+      "profile": "https://github.com/Nan1t",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

@@ -196,6 +196,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "MilkBowl",
+      "name": "milkbowl",
+      "avatar_url": "https://avatars.githubusercontent.com/u/842764?v=4",
+      "profile": "https://github.com/MilkBowl",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

@@ -490,6 +490,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "kangarko",
+      "name": "Matej Pacan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1918426?v=4",
+      "profile": "https://mineacademy.org/github-join",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

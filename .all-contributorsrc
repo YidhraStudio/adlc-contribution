@@ -187,6 +187,15 @@
         "plugin",
         "security"
       ]
+    },
+    {
+      "login": "IntellectualSites",
+      "name": "IntellectualSites",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11821084?v=4",
+      "profile": "https://intellectualsites.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

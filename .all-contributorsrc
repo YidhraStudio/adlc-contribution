@@ -363,6 +363,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "mdcfe",
+      "name": "MD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1917406?v=4",
+      "profile": "https://github.com/mdcfe",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

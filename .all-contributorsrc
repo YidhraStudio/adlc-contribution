@@ -318,6 +318,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "JLyne",
+      "name": "James Lyne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4615316?v=4",
+      "profile": "https://github.com/JLyne",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

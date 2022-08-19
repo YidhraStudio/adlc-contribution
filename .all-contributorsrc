@@ -354,6 +354,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "DieReicheErethons",
+      "name": "DieReicheErethons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1065654?v=4",
+      "profile": "https://github.com/DieReicheErethons",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

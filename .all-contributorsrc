@@ -159,6 +159,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "dmulloy2",
+      "name": "Dan Mulloy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3039119?v=4",
+      "profile": "https://github.com/dmulloy2",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

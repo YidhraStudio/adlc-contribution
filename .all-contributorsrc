@@ -567,6 +567,18 @@
         "plugin",
         "translation"
       ]
+    },
+    {
+      "login": "SuperMax8",
+      "name": "SuperMax8",
+      "avatar_url": "https://avatars.githubusercontent.com/u/73855070?v=4",
+      "profile": "https://github.com/SuperMax8",
+      "contributions": [
+        "question",
+        "code",
+        "ideas",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

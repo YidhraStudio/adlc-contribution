@@ -223,6 +223,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "garagepoort",
+      "name": "David Maes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/856751?v=4",
+      "profile": "https://github.com/garagepoort",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

@@ -463,6 +463,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "BentoBoxWorld",
+      "name": "BentoBoxWorld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41555324?v=4",
+      "profile": "https://bentobox.world/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

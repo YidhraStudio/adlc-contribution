@@ -408,6 +408,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "Imprex-Development",
+      "name": "Imprex",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59458373?v=4",
+      "profile": "https://github.com/Imprex-Development",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

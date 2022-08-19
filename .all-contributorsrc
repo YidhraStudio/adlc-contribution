@@ -273,6 +273,15 @@
         "plugin",
         "security"
       ]
+    },
+    {
+      "login": "CodeCrafter47",
+      "name": "Florian Stober",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7014077?v=4",
+      "profile": "https://github.com/CodeCrafter47",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

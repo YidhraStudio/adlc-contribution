@@ -381,6 +381,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "filoghost",
+      "name": "filoghost",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3776612?v=4",
+      "profile": "https://filoghost.me/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

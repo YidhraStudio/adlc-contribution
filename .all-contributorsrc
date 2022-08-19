@@ -77,6 +77,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "dscalzi",
+      "name": "Daniel Scalzi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/9703873?v=4",
+      "profile": "https://github.com/dscalzi",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

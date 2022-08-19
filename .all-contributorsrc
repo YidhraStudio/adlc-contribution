@@ -526,6 +526,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "NLthijs48",
+      "name": "Thijs Wiefferink",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6951068?v=4",
+      "profile": "https://wiefferink.me/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

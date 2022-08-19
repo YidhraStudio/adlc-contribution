@@ -517,6 +517,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "FlailoftheLord",
+      "name": "FlailoftheLord",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41513161?v=4",
+      "profile": "https://www.spigotmc.org/members/flailofthelord.565303/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

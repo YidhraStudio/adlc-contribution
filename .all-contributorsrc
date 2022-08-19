@@ -454,6 +454,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "kennytv",
+      "name": "Nassim Jahnke",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28825609?v=4",
+      "profile": "https://github.com/kennytv",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

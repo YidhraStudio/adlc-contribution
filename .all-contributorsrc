@@ -168,6 +168,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "aadnk",
+      "name": "Kristian S. Stangeland",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1276508?v=4",
+      "profile": "http://www.comphenix.net/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

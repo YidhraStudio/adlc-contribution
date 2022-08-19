@@ -426,6 +426,16 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "SkytAsul",
+      "name": "SkytAsul",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28827134?v=4",
+      "profile": "https://linktr.ee/skytasul",
+      "contributions": [
+        "plugin",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7

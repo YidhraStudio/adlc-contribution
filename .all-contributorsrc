@@ -150,6 +150,16 @@
         "code",
         "plugin"
       ]
+    },
+    {
+      "login": "Culley-Studios",
+      "name": "Culley Studios",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67350732?v=4",
+      "profile": "https://culleystudios.com/",
+      "contributions": [
+        "code",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

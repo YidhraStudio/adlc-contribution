@@ -104,6 +104,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Simonsator",
+      "name": "Simon Brungs",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11296360?v=4",
+      "profile": "https://github.com/Simonsator",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

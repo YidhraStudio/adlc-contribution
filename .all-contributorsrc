@@ -327,6 +327,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "bergerhealer",
+      "name": "Berger Healer",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11248334?v=4",
+      "profile": "https://github.com/bergerhealer",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

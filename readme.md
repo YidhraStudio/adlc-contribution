@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-59-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Adlc est un projet de serveur de jeu Minecraft, l'objectif est de proposé un espace de jeu participatif.
@@ -93,6 +93,8 @@ Merci à ces personnes merveilleuses ([emoji key](https://allcontributors.org/do
     <td align="center"><a href="https://wiefferink.me/"><img src="https://avatars.githubusercontent.com/u/6951068?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Thijs Wiefferink</b></sub></a><br /><a href="#plugin-NLthijs48" title="Plugin/utility libraries">🔌</a></td>
     <td align="center"><a href="https://minebench.de/"><img src="https://avatars.githubusercontent.com/u/11317218?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Minebench.de</b></sub></a><br /><a href="#plugin-Minebench" title="Plugin/utility libraries">🔌</a></td>
     <td align="center"><a href="https://github.com/Nutty101"><img src="https://avatars.githubusercontent.com/u/14265073?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Nutty101</b></sub></a><br /><a href="#plugin-Nutty101" title="Plugin/utility libraries">🔌</a></td>
+    <td align="center"><a href="https://mojang.com/"><img src="https://avatars.githubusercontent.com/u/1162641?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mojang</b></sub></a><br /><a href="#audio-Mojang" title="Audio">🔊</a> <a href="#content-Mojang" title="Content">🖋</a> <a href="#data-Mojang" title="Data">🔣</a> <a href="#design-Mojang" title="Design">🎨</a> <a href="#plugin-Mojang" title="Plugin/utility libraries">🔌</a> <a href="#translation-Mojang" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/SuperMax8"><img src="https://avatars.githubusercontent.com/u/73855070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>SuperMax8</b></sub></a><br /><a href="#question-SuperMax8" title="Answering Questions">💬</a> <a href="https://github.com/AdlC-Network/contribution/commits?author=SuperMax8" title="Code">💻</a> <a href="#ideas-SuperMax8" title="Ideas, Planning, & Feedback">🤔</a> <a href="#plugin-SuperMax8" title="Plugin/utility libraries">🔌</a></td>
   </tr>
 </table>
 

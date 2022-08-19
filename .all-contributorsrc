@@ -131,6 +131,15 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "VolmitSoftware",
+      "name": "Volmit Software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34003941?v=4",
+      "profile": "http://volmit.com/",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7

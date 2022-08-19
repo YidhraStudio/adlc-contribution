@@ -282,6 +282,15 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "BGHDDevelopment",
+      "name": "Stephan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/16854333?v=4",
+      "profile": "https://bghddevelopment.com/",
+      "contributions": [
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7

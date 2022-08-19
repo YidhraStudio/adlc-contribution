@@ -232,6 +232,17 @@
       "contributions": [
         "plugin"
       ]
+    },
+    {
+      "login": "amidamaruh",
+      "name": "amidamaruh",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86194108?v=4",
+      "profile": "https://github.com/amidamaruh",
+      "contributions": [
+        "question",
+        "ideas",
+        "talk"
+      ]
     }
   ],
   "contributorsPerLine": 7

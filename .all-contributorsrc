@@ -243,6 +243,16 @@
         "ideas",
         "talk"
       ]
+    },
+    {
+      "login": "plasmoapp",
+      "name": "Plasmo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51722075?v=4",
+      "profile": "https://mc.plo.su/",
+      "contributions": [
+        "audio",
+        "plugin"
+      ]
     }
   ],
   "contributorsPerLine": 7
